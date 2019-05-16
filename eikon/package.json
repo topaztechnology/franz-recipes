@@ -1,0 +1,13 @@
+{
+  "id": "eikon",
+  "name": "Eikon",
+  "version": "0.1",
+  "description": "Eikon Messenger",
+  "main": "index.js",
+  "author": "Jon Fox <jon@topaz.technology>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://collab.thomsonreuters.com/eikonmessenger",
+    "hasNotificationSound": true
+  }
+}

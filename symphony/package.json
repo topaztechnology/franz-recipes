@@ -1,0 +1,13 @@
+{
+  "id": "symphony",
+  "name": "Symphony",
+  "version": "0.1",
+  "description": "Symphony",
+  "main": "index.js",
+  "author": "Jon Fox <jon@topaz.technology>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://my.symphony.com/client",
+    "hasNotificationSound": true
+  }
+}
