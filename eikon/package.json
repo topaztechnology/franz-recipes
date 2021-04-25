@@ -7,7 +7,7 @@
   "author": "Jon Fox <jon@topaz.technology>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://collab.thomsonreuters.com/eikonmessenger",
+    "serviceURL": "https://collab.platform.refinitiv.com/eikonmessenger/login",
     "hasNotificationSound": true
   }
 }
